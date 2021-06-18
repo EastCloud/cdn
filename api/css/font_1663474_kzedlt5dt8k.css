@@ -1,0 +1,69 @@
+@font-face {font-family: "moeicon";
+  src: url('../statics/image/font_1663474_kzedlt5dt8k.eot'); /* IE9 */
+  src: url('../statics/image/font_1663474_kzedlt5dt8k.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../statics/image/e67f7b61ba8505de13098c93c9ea9987.png') format('woff2'),
+  url('../statics/image/font_1663474_kzedlt5dt8k.woff') format('woff'),
+  url('../statics/image/font_1663474_kzedlt5dt8k.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../statics/image/font_1663474_kzedlt5dt8k.svg') format('svg'); /* iOS 4.1- */
+}
+
+.moeicon {
+  font-family: "moeicon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.i-pixiv:before {
+  content: "\e603";
+}
+
+.i-info:before {
+  content: "\e63d";
+}
+
+.i-back:before {
+  content: "\e602";
+}
+
+.i-heart:before {
+  content: "\e68e";
+}
+
+.i-status:before {
+  content: "\e6fa";
+}
+
+.i-qq:before {
+  content: "\e76c";
+}
+
+.i-cloud:before {
+  content: "\e64e";
+}
+
+.i-talk:before {
+  content: "\e622";
+}
+
+.i-gravatar:before {
+  content: "\e76b";
+}
+
+.i-picture:before {
+  content: "\e645";
+}
+
+.i-music:before {
+  content: "\e66a";
+}
+
+.i-bilibili:before {
+  content: "\e75c";
+}
+
+.i-cloudmusic:before {
+  content: "\e76a";
+}
+
